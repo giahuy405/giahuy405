@@ -42,11 +42,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="Prisma" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongoose&logoColor=880000" alt="Mongoose logo" title="Mongoose" height="25" /></span>
+&nbsp;
 
 ### Database : 
 <span><img src="https://img.shields.io/badge/mySQL-282C34?logo=mysql&logoColor=4479A1" alt="myssql logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="Prisma" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="mongodb logo" title="MongoDB" height="25" /></span>
 &nbsp;
 
 ### Other : 
@@ -59,7 +61,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-##### I am currently focus on Front end first. When i have 2 years of experience, i'll focus on back end later.
+#### NOTE: I am currently focus on Front end first. When i have 2 years of experience in this field, i'll focus on back end later.
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span> -->
  
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span> -->
