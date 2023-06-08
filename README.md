@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- giahuydev -->
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -74,6 +74,9 @@
   </a>
   <a href="mailto:pgiahuy653@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="giahuy-email" />
+  </a>
+    <a href="https://www.youtube.com/channel/UCXLr4MtjGkVmg5l1vPnvbKA" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="giahuy-youtube" />
   </a>
 </div>
 
