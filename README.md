@@ -60,7 +60,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-
+#### All of my project here + video demo : https://zircon-chips-18c.notion.site/All-Projects-cbbdb4ea48c7405b91ca956b8c22a2d7?pvs=4
 #### NOTE: I am currently focus on Front end first,but I can work and learn more about the back end to fit the company's needs.
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span> -->
  
